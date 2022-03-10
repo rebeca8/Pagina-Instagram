@@ -78,9 +78,7 @@
             
             .trocar-conta {
                 color: #34a6f8;
-                font-weight: bold;
-                display: flex;
-                flex-direction: column;
+                font-weight: bold;  
             }
             
             .galeria {
